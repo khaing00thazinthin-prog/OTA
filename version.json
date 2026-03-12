@@ -1,7 +1,4 @@
-{
-  "version": "1.0.0",
-  "firmware": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/firmware.bin"
-}
+
 {
   "version": "1.0.1",
   "firmware": "https://raw.githubusercontent.com/khaing00thazinthin-prog/OTA/main/firmware1.bin"
